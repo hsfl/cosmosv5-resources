@@ -1,0 +1,6 @@
+general/lnx1900.405 binary
+general/pgm2000a_coef.txt text
+general/egm2008_coef.txt text
+general/iers_pm_dut_ls.txt text
+general/yalebsc.txt text
+general/*.cof text
